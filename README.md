@@ -1,4 +1,4 @@
-![cover](images/cover.png)
+![cover](https://github.com/agalvezcorell/agalvezcorell/blob/main/images/cover.png)
 
 ### Wep wep wep 🚀🙃🔥
 
