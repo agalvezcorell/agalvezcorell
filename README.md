@@ -1,10 +1,6 @@
 ![cover](https://github.com/agalvezcorell/agalvezcorell/blob/main/images/cover.png)
 
-### Wep wep wep 🚀🙃🔥
-
-I work as a lead instructor in the data analysis bootcamp at Ironhack Madrid.
-I love greyhounds, vans, mountains, playing a thousand instruments, children's stories and... coding!
-
+### wep wep wep 🚀🙃🔥
 <!--
 **agalvezcorell/agalvezcorell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
